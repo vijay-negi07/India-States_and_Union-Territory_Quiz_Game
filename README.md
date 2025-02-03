@@ -16,6 +16,14 @@ Enter the names of states and union territories when prompted.
 Correct guesses will be marked on the map.
 Try to name all states and UTs to complete the quiz!
 
+
+![Screenshot 2025-02-03 121009](https://github.com/user-attachments/assets/8235170a-f2fc-4c73-9572-07fef0588eb6)
+
+![Screenshot 2025-02-03 121035](https://github.com/user-attachments/assets/3021b01f-86e3-4d63-8931-c5a3f51ce146)
+
+![Screenshot 2025-02-03 121416](https://github.com/user-attachments/assets/264a1337-460a-49ff-a72d-4995054ac216)
+
+
 **Requirements**  
 Python 3.x
 Turtle module (built-in)
